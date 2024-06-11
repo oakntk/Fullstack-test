@@ -1,0 +1,310 @@
+[
+    {
+    "Province_ENG": "Bangkok",
+    "GPP2020": -7.696753381
+    },
+    {
+    "Province_ENG": "ChonBuri",
+    "GPP2020": -15.82708764
+    },
+    {
+    "Province_ENG": "Rayong",
+    "GPP2020": -16.32269527
+    },
+    {
+    "Province_ENG": "SamutPrakan",
+    "GPP2020": -16.94114418
+    },
+    {
+    "Province_ENG": "PathumThani",
+    "GPP2020": -1.319342679
+    },
+    {
+    "Province_ENG": "SamutSakhon",
+    "GPP2020": -0.494905528
+    },
+    {
+    "Province_ENG": "PhraNakhonSiAyutthaya",
+    "GPP2020": -0.365346165
+    },
+    {
+    "Province_ENG": "NakhonPathom",
+    "GPP2020": -1.405133089
+    },
+    {
+    "Province_ENG": "Chachoengsao",
+    "GPP2020": -10.28531584
+    },
+    {
+    "Province_ENG": "Nonthaburi",
+    "GPP2020": -0.124199866
+    },
+    {
+    "Province_ENG": "PrachinBuri",
+    "GPP2020": -6.023370748
+    },
+    {
+    "Province_ENG": "NakhonRatchasima",
+    "GPP2020": -3.089514336
+    },
+    {
+    "Province_ENG": "Saraburi",
+    "GPP2020": -4.141190093
+    },
+    {
+    "Province_ENG": "ChiangMai",
+    "GPP2020": -8.232764278
+    },
+    {
+    "Province_ENG": "Songkhla",
+    "GPP2020": -4.898055507
+    },
+    {
+    "Province_ENG": "KhonKaen",
+    "GPP2020": -2.591370819
+    },
+    {
+    "Province_ENG": "Ratchaburi",
+    "GPP2020": -10.45537304
+    },
+    {
+    "Province_ENG": "NakhonSiThammarat",
+    "GPP2020": -1.230032037
+    },
+    {
+    "Province_ENG": "SuratThani",
+    "GPP2020": -15.21464286
+    },
+    {
+    "Province_ENG": "Chanthaburi",
+    "GPP2020": 6.99069457
+    },
+    {
+    "Province_ENG": "Phuket",
+    "GPP2020": -46.54167974
+    },
+    {
+    "Province_ENG": "UbonRatchathani",
+    "GPP2020": 2.373738976
+    },
+    {
+    "Province_ENG": "Chumphon",
+    "GPP2020": 7.919837471
+    },
+    {
+    "Province_ENG": "NakhonSawan",
+    "GPP2020": -5.306538641
+    },
+    {
+    "Province_ENG": "UdonThani",
+    "GPP2020": -5.069937745
+    },
+    {
+    "Province_ENG": "LopBuri",
+    "GPP2020": -4.198549051
+    },
+    {
+    "Province_ENG": "KamphaengPhet",
+    "GPP2020": -11.90896245
+    },
+    {
+    "Province_ENG": "Kanchanaburi",
+    "GPP2020": -5.032038853
+    },
+    {
+    "Province_ENG": "ChiangRai",
+    "GPP2020": -5.635575444
+    },
+    {
+    "Province_ENG": "Phitsanulok",
+    "GPP2020": -5.110622077
+    },
+    {
+    "Province_ENG": "BuriRam",
+    "GPP2020": 2.984690452
+    },
+    {
+    "Province_ENG": "PrachuapKhiriKhan",
+    "GPP2020": -4.237270407
+    },
+    {
+    "Province_ENG": "SuphanBuri",
+    "GPP2020": -1.825968848
+    },
+    {
+    "Province_ENG": "Surin",
+    "GPP2020": 3.457725876
+    },
+    {
+    "Province_ENG": "Lamphun",
+    "GPP2020": 2.105458367
+    },
+    {
+    "Province_ENG": "RoiEt",
+    "GPP2020": 3.195791845
+    },
+    {
+    "Province_ENG": "Phetchabun",
+    "GPP2020": -6.281023291
+    },
+    {
+    "Province_ENG": "SiSaKet",
+    "GPP2020": 6.064438091
+    },
+    {
+    "Province_ENG": "Phetchaburi",
+    "GPP2020": -3.939426313
+    },
+    {
+    "Province_ENG": "Lampang",
+    "GPP2020": -0.870941092
+    },
+    {
+    "Province_ENG": "Krabi",
+    "GPP2020": -19.34457562
+    },
+    {
+    "Province_ENG": "Trang",
+    "GPP2020": 3.316631246
+    },
+    {
+    "Province_ENG": "Chaiyaphum",
+    "GPP2020": -1.665195288
+    },
+    {
+    "Province_ENG": "Tak",
+    "GPP2020": -7.321710642
+    },
+    {
+    "Province_ENG": "SakonNakhon",
+    "GPP2020": 4.293922979
+    },
+    {
+    "Province_ENG": "MahaSarakham",
+    "GPP2020": 5.990744494
+    },
+    {
+    "Province_ENG": "Kalasin",
+    "GPP2020": -0.774519337
+    },
+    {
+    "Province_ENG": "Phang-nga",
+    "GPP2020": -34.05339777
+    },
+    {
+    "Province_ENG": "Loei",
+    "GPP2020": -5.77612076
+    },
+    {
+    "Province_ENG": "Phichit",
+    "GPP2020": -1.528548771
+    },
+    {
+    "Province_ENG": "Pattani",
+    "GPP2020": -1.263242861
+    },
+    {
+    "Province_ENG": "Sukhothai",
+    "GPP2020": -4.643908526
+    },
+    {
+    "Province_ENG": "Yala",
+    "GPP2020": 5.080075771
+    },
+    {
+    "Province_ENG": "SaKaeo",
+    "GPP2020": -4.311992601
+    },
+    {
+    "Province_ENG": "NakhonPhanom",
+    "GPP2020": 1.396133443
+    },
+    {
+    "Province_ENG": "Trat",
+    "GPP2020": 3.321865531
+    },
+    {
+    "Province_ENG": "NongKhai",
+    "GPP2020": 1.948693243
+    },
+    {
+    "Province_ENG": "Uttaradit",
+    "GPP2020": -2.484606504
+    },
+    {
+    "Province_ENG": "Narathiwat",
+    "GPP2020": -6.364394606
+    },
+    {
+    "Province_ENG": "Phatthalung",
+    "GPP2020": 2.359921604
+    },
+    {
+    "Province_ENG": "ChaiNat",
+    "GPP2020": -0.759807295
+    },
+    {
+    "Province_ENG": "Phayao",
+    "GPP2020": -3.559474243
+    },
+    {
+    "Province_ENG": "Nan",
+    "GPP2020": -0.450476465
+    },
+    {
+    "Province_ENG": "Satun",
+    "GPP2020": 6.289775481
+    },
+    {
+    "Province_ENG": "AngThong",
+    "GPP2020": 0.722239898
+    },
+    {
+    "Province_ENG": "Phrae",
+    "GPP2020": -1.411653245
+    },
+    {
+    "Province_ENG": "NakhonNayok",
+    "GPP2020": 2.37555446
+    },
+    {
+    "Province_ENG": "Ranong",
+    "GPP2020": 10.1010101
+    },
+    {
+    "Province_ENG": "Yasothon",
+    "GPP2020": 3.34643615
+    },
+    {
+    "Province_ENG": "NongBuaLamPhu",
+    "GPP2020": -6.469353065
+    },
+    {
+    "Province_ENG": "SamutSongkhram",
+    "GPP2020": 3.023344814
+    },
+    {
+    "Province_ENG": "SingBuri",
+    "GPP2020": -5.985250632
+    },
+    {
+    "Province_ENG": "Mukdahan",
+    "GPP2020": -6.578562015
+    },
+    {
+    "Province_ENG": "UthaiThani",
+    "GPP2020": -11.5735402
+    },
+    {
+    "Province_ENG": "BuengKan",
+    "GPP2020": -0.590829995
+    },
+    {
+    "Province_ENG": "AmnatCharoen",
+    "GPP2020": 0.94735284
+    },
+    {
+    "Province_ENG": "MaeHongSon",
+    "GPP2020": 0.84548299
+    }
+    ]

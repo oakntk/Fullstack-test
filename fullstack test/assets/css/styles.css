@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  color: #4caf50;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.gdp-table {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+.gdp-form {
+  margin-top: 30px;
+}
+
+.gdp-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.gdp-form label {
+  margin-bottom: 5px;
+}
+
+.gdp-form input {
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.gdp-form button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.gdp-form button:hover {
+  background-color: #45a049;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+
+  table,
+  th,
+  td {
+    font-size: 14px;
+  }
+
+  .gdp-form input,
+  .gdp-form button {
+    font-size: 14px;
+  }
+}
